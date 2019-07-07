@@ -1,0 +1,34 @@
+h1  {
+    color: rgb(170, 87, 87);
+}
+h2 {
+    color: rgb(103, 177, 152);
+}
+h3 {
+    color: chocolate;
+}
+h4{
+    color: rgb(89, 131, 41);
+}
+h5{
+    color: rgb(146, 57, 112);
+}
+#one{
+font-size:25px;
+}
+
+#Naved:hover {
+    color: rgb(196, 38, 169);
+}
+#Navedtwo:hover{
+    color: rgb(255, 255, 255);
+}
+#Navedthree:hover{
+    color: rgb(230, 208, 15);
+}
+#Navedfour:hover{
+    color: rgb(255, 102, 0);
+}
+#Navedfive:hover{
+    color: rgb(80, 0, 0);
+}
